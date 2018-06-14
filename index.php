@@ -18,7 +18,6 @@
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="./index.php">Inicio</a>
-  
   <a href="./Manual.php">Configuración manual</a>
   <a href="./Automatización.php">Configuraciones guardadas</a>
     <a href="./Alertas.php">Alertas</a>
