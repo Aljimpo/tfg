@@ -4,7 +4,7 @@ Todas las páginas web reciben el estilo de el archivo "Hoja de estilos.css" de 
 
 
 
--La carpeta "amcharts_3.21.12.free" contiene los archivos necesarios para que funcionen los gráficos.
+-	La carpeta "amcharts_3.21.12.free" contiene los archivos necesarios para que funcionen los gráficos.
 -	“Manual.php” 35.230.70.16/FCT/Manual.php  Se encarga de tomar las configuraciones de los usuarios y enviarlas al fichero "Between.php"
 
 -	"Between.php" se encarga de que la Raspberry Pi 3 reciba los datos de configuración, para eso escribe en  35.230.70.16/FCT/config/Config.txt 
